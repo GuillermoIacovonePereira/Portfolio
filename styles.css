@@ -1,0 +1,31 @@
+body {
+    font-weight: normal;
+    font-family: 'Lato', sans-serif;
+    background-color: black;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: grey;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    align-content: center;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-weight: 700; 
+    color: black;
+}
+
+h2 {
+    border-bottom: 2px solid #00FFFF;
+    padding-bottom: 5px;
+    color: #00FFFF;
+}
